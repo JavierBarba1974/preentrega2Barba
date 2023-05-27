@@ -1,0 +1,27 @@
+body{
+    color:blue
+}
+
+.navbar .collapse.navbar-collapse {
+    flex-grow: inherit;
+
+}
+
+.navbar-toggler-icon {
+    color: #0000ff;
+}
+
+.header__content{
+    height: calc(100vh-56px);
+}
+
+.galeria {
+    padding: 80px 120px;
+}
+
+@media(min-width: 1024px){
+    .galeria{
+      padding: 80px 120px;
+    }
+  }
+
